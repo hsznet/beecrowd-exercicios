@@ -1,0 +1,15 @@
+/home/heitor/Área de Trabalho/beecrowd-exercicios/c-sharp/bin/Debug/net6.0/beecrowd-exercicios
+/home/heitor/Área de Trabalho/beecrowd-exercicios/c-sharp/bin/Debug/net6.0/beecrowd-exercicios.deps.json
+/home/heitor/Área de Trabalho/beecrowd-exercicios/c-sharp/bin/Debug/net6.0/beecrowd-exercicios.runtimeconfig.json
+/home/heitor/Área de Trabalho/beecrowd-exercicios/c-sharp/bin/Debug/net6.0/beecrowd-exercicios.dll
+/home/heitor/Área de Trabalho/beecrowd-exercicios/c-sharp/bin/Debug/net6.0/beecrowd-exercicios.pdb
+/home/heitor/Área de Trabalho/beecrowd-exercicios/c-sharp/obj/Debug/net6.0/beecrowd-exercicios.csproj.AssemblyReference.cache
+/home/heitor/Área de Trabalho/beecrowd-exercicios/c-sharp/obj/Debug/net6.0/beecrowd-exercicios.GeneratedMSBuildEditorConfig.editorconfig
+/home/heitor/Área de Trabalho/beecrowd-exercicios/c-sharp/obj/Debug/net6.0/beecrowd-exercicios.AssemblyInfoInputs.cache
+/home/heitor/Área de Trabalho/beecrowd-exercicios/c-sharp/obj/Debug/net6.0/beecrowd-exercicios.AssemblyInfo.cs
+/home/heitor/Área de Trabalho/beecrowd-exercicios/c-sharp/obj/Debug/net6.0/beecrowd-exercicios.csproj.CoreCompileInputs.cache
+/home/heitor/Área de Trabalho/beecrowd-exercicios/c-sharp/obj/Debug/net6.0/beecrowd-exercicios.dll
+/home/heitor/Área de Trabalho/beecrowd-exercicios/c-sharp/obj/Debug/net6.0/refint/beecrowd-exercicios.dll
+/home/heitor/Área de Trabalho/beecrowd-exercicios/c-sharp/obj/Debug/net6.0/beecrowd-exercicios.pdb
+/home/heitor/Área de Trabalho/beecrowd-exercicios/c-sharp/obj/Debug/net6.0/beecrowd-exercicios.genruntimeconfig.cache
+/home/heitor/Área de Trabalho/beecrowd-exercicios/c-sharp/obj/Debug/net6.0/ref/beecrowd-exercicios.dll
